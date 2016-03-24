@@ -1,0 +1,17 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 4940
+CenterOfRotation = 0 0
+ElementSpacing = 0.116364 0.0907276
+DimSize = 330 552
+AnatomicalOrientation = ??
+ElementSize = 0.116364 0.0907276
+ElementType = MET_FLOAT
+TransformMatrix =  0.931605 0.34675 0.108974 -0.313934 0.918725 -0.23956 -0.183185 0.188965 0.964746
+Offset =  101.922 443.062 75.5151
+Modality = US
+ImageType3 = US-Acq_02_20150527T125751_Velocity
+ElementDataFile = US-Acq_02_20150527T125751_Velocity_203.zraw

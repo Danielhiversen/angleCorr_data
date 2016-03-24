@@ -1,0 +1,17 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 133387
+CenterOfRotation = 0 0
+ElementSpacing = 0.116364 0.0907276
+DimSize = 330 552
+AnatomicalOrientation = ??
+ElementSize = 0.116364 0.0907276
+ElementType = MET_UCHAR
+TransformMatrix =  0.934984 0.287841 0.207249 -0.131542 0.824042 -0.551045 -0.329396 0.487957 0.80833
+Offset =  111.539 435.17 61.5057
+Modality = US
+ImageType3 = US-Acq_05_20150527T130229_Tissue
+ElementDataFile = US-Acq_05_20150527T130229_Tissue_193.zraw

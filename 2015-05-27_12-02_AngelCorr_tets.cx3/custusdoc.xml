@@ -1,0 +1,552 @@
+<?xml version = '1.0'?>
+<patient>
+    <version_name>2016.01.08-dev+develop.1dc556</version_name>
+    <active_patient>/home/dahoiv/disk/data/angleCorr/2015-05-27_12-02_AngelCorr_tets.cx3</active_patient>
+    <managers>
+        <toolManager>
+            <toolTipOffset>0</toolTipOffset>
+            <manualTool>
+  0.922351   0.188417  -0.337295    126.034
+  0.375492   -0.64272    0.66777    445.686
+-0.0909671   -0.74257  -0.663562    70.1065
+         0          0          0          1</manualTool>
+            <tools>
+                <tool/>
+            </tools>
+        </toolManager>
+        <datamanager>
+            <registrationHistory>
+                <currentTime></currentTime>
+            </registrationHistory>
+            <landmarkprops/>
+            <landmarks/>
+            <center>126.034 445.686 70.1065</center>
+            <data uid="US_01_20150527T125724_Angio_1_ge1" name="US 01 Angio 12:57  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.907814 -0.371856 -0.193899   108.888
+ 0.399657  0.907209  0.131326   429.593
+ 0.127072 -0.196713  0.972192   58.7339
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_01_20150527T125724_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_01_20150527T125724_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T141819496</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_01_20150527T125724_Angio_1_tsf_cl1" name="US 01 Angio 12:57 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_01_20150527T125724_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_01_20150527T125724_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T141816625</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_01_20150527T125724_Angio_1_tsf_cl1_angleCorr1" name="US 01 Angio 12:57 _tsf_cl angleCorr" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_01_20150527T125724_Angio_1_tsf_cl1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_01_20150527T125724_Angio_1_tsf_cl1_angleCorr1.vtk</filePath>
+                <acqusitionTime>20151122T163931694</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="1" orientationArray="Flow direction" glyphVisSize="2"/>
+            </data>
+            <data uid="US_02_20150527T125751_Angio_1_ge1" name="US 02 Angio 12:57  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.917784 -0.349072 -0.189265   107.135
+ 0.380437  0.909552   0.16728   429.872
+ 0.113754 -0.225531  0.967572   60.1798
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_02_20150527T125751_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_02_20150527T125751_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T143740384</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_02_20150527T125751_Angio_1_tsf_cl1" name="US 02 Angio 12:57 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_02_20150527T125751_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_02_20150527T125751_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T143737444</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_03_20150527T130026_Angio_1_ge1" name="US 03 Angio 13:00  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.913515 -0.160609 -0.373757   116.028
+ 0.363235  0.735715   0.57165   430.966
+ 0.183166 -0.657972  0.730426   55.2632
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_03_20150527T130026_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_03_20150527T130026_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T143948953</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_03_20150527T130026_Angio_1_tsf_cl1" name="US 03 Angio 13:00 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_03_20150527T130026_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_03_20150527T130026_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T143946506</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_04_20150527T130043_Angio_1_ge1" name="US 04 Angio 13:00  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.910579 -0.172184 -0.375763   115.291
+ 0.372756  0.734905   0.56654   431.033
+ 0.178601 -0.655947  0.733372   55.7845
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_04_20150527T130043_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_04_20150527T130043_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T144040591</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_04_20150527T130043_Angio_1_tsf_cl1" name="US 04 Angio 13:00 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_04_20150527T130043_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_04_20150527T130043_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T144037543</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_05_20150527T130229_Angio_1_ge1" name="US 05 Angio 13:02  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.931041 -0.182504 -0.315998   112.178
+ 0.312516  0.845866  0.432254   431.215
+ 0.188405 -0.501201  0.844572   56.0291
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_05_20150527T130229_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_05_20150527T130229_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T144154204</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_05_20150527T130229_Angio_1_tsf_cl1" name="US 05 Angio 13:02 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_05_20150527T130229_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_05_20150527T130229_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T144151160</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_06_20150527T130329_Angio_1_ge1" name="US 06 Angio 13:03  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.922096 -0.173104 -0.346084   107.648
+ 0.338952  0.792788  0.506556   427.063
+ 0.186684 -0.584399  0.789701   54.0323
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_06_20150527T130329_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_06_20150527T130329_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T144322461</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_06_20150527T130329_Angio_1_tsf_cl1" name="US 06 Angio 13:03 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_06_20150527T130329_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_06_20150527T130329_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T144319130</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_07_20150527T130532_Angio_1_ge1" name="US 07 Angio 13:05  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+  0.92323 -0.319921 -0.212832   110.968
+ 0.355141  0.921915  0.154753   435.304
+ 0.146704 -0.218458  0.964756   60.7452
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_07_20150527T130532_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_07_20150527T130532_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T150230214</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_07_20150527T130532_Angio_1_tsf_cl1" name="US 07 Angio 13:05 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_07_20150527T130532_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_07_20150527T130532_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T150227194</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_08_20150527T130558_Angio_1_ge1" name="US 08 Angio 13:05  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ 0.921874 -0.178348 -0.344007   104.582
+ 0.339242  0.800489  0.494098    434.45
+ 0.187253 -0.572198  0.798452   59.9247
+        0         0         0         1</registrationTransform>
+                    <parentFrame value="US_08_20150527T130558_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_08_20150527T130558_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T150309028</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_08_20150527T130558_Angio_1_tsf_cl1" name="US 08 Angio 13:05 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_08_20150527T130558_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_08_20150527T130558_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T150306088</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_09_20150527T131009_Angio_1_ge1" name="US 09 Angio 13:10  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+-0.0748536  -0.300837  -0.950734     164.57
+  0.682334   0.679816  -0.268833    411.664
+  0.727199   -0.66884   0.154385    31.3095
+         0          0          0          1</registrationTransform>
+                    <parentFrame value="US_09_20150527T131009_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_09_20150527T131009_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T150339963</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_09_20150527T131009_Angio_1_tsf_cl1" name="US 09 Angio 13:10 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_09_20150527T131009_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_09_20150527T131009_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T150337296</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="US_10_20150527T131055_Angio_1_ge1" name="US 10 Angio 13:10  ge" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <registrationTransform timestamp="" type="">
+ -0.251721  -0.280386  -0.926294    151.014
+  0.630224   0.678875  -0.376757     434.77
+  0.734475   -0.67861 0.00581885     49.993
+         0          0          0          1</registrationTransform>
+                    <parentFrame value="US_10_20150527T131055_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_10_20150527T131055_Angio_1_ge1.vtk</filePath>
+                <acqusitionTime>20150528T150422351</acqusitionTime>
+                <color>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>255</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="Normals" glyphVisSize="2"/>
+            </data>
+            <data uid="US_10_20150527T131055_Angio_1_tsf_cl1" name="US 10 Angio 13:10 _tsf_cl" type="mesh">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                    <parentFrame value="US_10_20150527T131055_Angio_1" timestamp="" type=""/>
+                </registrationHistory>
+                <filePath>Images/US_10_20150527T131055_Angio_1_tsf_cl1.vtk</filePath>
+                <acqusitionTime>20150528T150419017</acqusitionTime>
+                <color>
+                    <red>255</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                </color>
+                <culling backfaceCulling="0" frontfaceCulling="0"/>
+                <glyph colorArray="" glyphLUT="Citrus" showGlyph="0" orientationArray="" glyphVisSize="2"/>
+            </data>
+            <data uid="playback Angio.ftsVividE9_11L" name="playback Angio.fts - VividE9 11L" type="trackedStream">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                </registrationHistory>
+                <filePath>.</filePath>
+                <acqusitionTime>20151005T135140277</acqusitionTime>
+            </data>
+            <data uid="playback Tissue.ftsVividE9_11L" name="playback Tissue.fts - VividE9 11L" type="trackedStream">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                </registrationHistory>
+                <filePath>.</filePath>
+                <acqusitionTime>20151005T135140063</acqusitionTime>
+            </data>
+            <data uid="playback TissueAngio.ftsVividE9_11L" name="playback TissueAngio.fts - VividE9 11L" type="trackedStream">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                </registrationHistory>
+                <filePath>.</filePath>
+                <acqusitionTime>20151005T135140173</acqusitionTime>
+            </data>
+            <data uid="playback Velocity.ftsVividE9_11L" name="playback Velocity.fts - VividE9 11L" type="trackedStream">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                </registrationHistory>
+                <filePath>.</filePath>
+                <acqusitionTime>20151005T135139953</acqusitionTime>
+            </data>
+            <data uid="playbackVividE9_11L" name="playback - VividE9 11L" type="trackedStream">
+                <registrationHistory>
+                    <currentTime></currentTime>
+                </registrationHistory>
+                <filePath>.</filePath>
+                <acqusitionTime>20151005T135826637</acqusitionTime>
+            </data>
+        </datamanager>
+        <viewManager>
+            <global2DZoom>1</global2DZoom>
+            <activeView>49677072</activeView>
+            <slicePlanes3D opaque="0" use="0"/>
+            <viewGroups>
+                <viewGroup index="0">
+                    <data slice3D="0" volume3D="1" slice2D="1">playbackVividE9_11L</data>
+                    <camera3D>
+                        <position>91.5957 470.563 57.4989</position>
+                        <focalPoint>123.652 478.844 62.4834</focalPoint>
+                        <viewUp> 0.145315 -0.858506  0.491784</viewUp>
+                        <nearClip>1</nearClip>
+                        <farClip>2000</farClip>
+                        <parallelScale>8.6658677276388207</parallelScale>
+                    </camera3D>
+                    <slicesPlanes3D>Axial/Coronal/Sagittal</slicesPlanes3D>
+                </viewGroup>
+                <viewGroup index="1">
+                    <camera3D>
+                        <position>0 0 1</position>
+                        <focalPoint>0 0 0</focalPoint>
+                        <viewUp>0 1 0</viewUp>
+                        <nearClip>1</nearClip>
+                        <farClip>2000</farClip>
+                        <parallelScale>1</parallelScale>
+                    </camera3D>
+                    <slicesPlanes3D>Axial/Coronal/Sagittal</slicesPlanes3D>
+                </viewGroup>
+                <viewGroup index="2">
+                    <camera3D/>
+                    <slicesPlanes3D>Axial/Coronal/Sagittal</slicesPlanes3D>
+                </viewGroup>
+                <viewGroup index="3">
+                    <camera3D/>
+                    <slicesPlanes3D>Axial/Coronal/Sagittal</slicesPlanes3D>
+                </viewGroup>
+                <viewGroup index="4">
+                    <camera3D/>
+                    <slicesPlanes3D>Axial/Coronal/Sagittal</slicesPlanes3D>
+                </viewGroup>
+            </viewGroups>
+            <clippedImage></clippedImage>
+        </viewManager>
+        <stateManager>
+            <recordSessions>
+                <recordSession uid="01_20150527T125724">
+                    <category>US-Acq</category>
+                    <interval start="20150527T125724717" stop="20150527T125736838"/>
+                </recordSession>
+                <recordSession uid="02_20150527T125751">
+                    <category>US-Acq</category>
+                    <interval start="20150527T125751481" stop="20150527T125809784"/>
+                </recordSession>
+                <recordSession uid="03_20150527T130026">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130026534" stop="20150527T130038995"/>
+                </recordSession>
+                <recordSession uid="04_20150527T130043">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130043076" stop="20150527T130100364"/>
+                </recordSession>
+                <recordSession uid="05_20150527T130229">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130229316" stop="20150527T130247487"/>
+                </recordSession>
+                <recordSession uid="06_20150527T130329">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130329484" stop="20150527T130401439"/>
+                </recordSession>
+                <recordSession uid="07_20150527T130532">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130532944" stop="20150527T130544977"/>
+                </recordSession>
+                <recordSession uid="08_20150527T130558">
+                    <category>US-Acq</category>
+                    <interval start="20150527T130558670" stop="20150527T130622149"/>
+                </recordSession>
+                <recordSession uid="09_20150527T131009">
+                    <category>US-Acq</category>
+                    <interval start="20150527T131009312" stop="20150527T131021707"/>
+                </recordSession>
+                <recordSession uid="10_20150527T131055">
+                    <category>US-Acq</category>
+                    <interval start="20150527T131055887" stop="20150527T131112570"/>
+                </recordSession>
+            </recordSessions>
+        </stateManager>
+        <registrationManager>
+            <fixedDataUid/>
+            <movingDataUid/>
+        </registrationManager>
+    </managers>
+    <M2USRegWidget>
+        <meshUid></meshUid>
+    </M2USRegWidget>
+    <ActiveData>
+        <activeUids>US_05_20150527T130229_Angio_1_tsf_cl1 US_02_20150527T125751_Angio_1_tsf_cl1 US_01_20150527T125724_Angio_1_ge1 US_01_20150527T125724_Angio_1_tsf_cl1_angleCorr1 playbackVividE9_11L</activeUids>
+    </ActiveData>
+    <clippers>
+        <clipper plane="Any" name="Any" invert="0" uids=""/>
+        <clipper plane="Axial" name="Axial" invert="0" uids=""/>
+        <clipper plane="Coronal" name="Coronal" invert="0" uids=""/>
+        <clipper plane="Dual" name="Dual" invert="0" uids=""/>
+        <clipper plane="Radial" name="Radial" invert="0" uids=""/>
+        <clipper plane="Sagittal" name="Sagittal" invert="0" uids=""/>
+    </clippers>
+</patient>

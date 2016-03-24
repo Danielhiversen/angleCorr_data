@@ -1,0 +1,16 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 2688
+CenterOfRotation = 0 0
+ElementSpacing = 0.116364 0.0907276
+DimSize = 330 552
+AnatomicalOrientation = ??
+ElementType = MET_UCHAR
+TransformMatrix =  0.934929 0.28516 0.211165 -0.0730509 0.737044 -0.671885 -0.347233 0.61274 0.709915
+Offset =  107.328 434.097 61.9647
+Modality = US
+ImageType3 = US-Acq_06_20150527T130329_Angio
+ElementDataFile = US-Acq_06_20150527T130329_Angio_0.zraw

@@ -1,0 +1,16 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+CenterOfRotation = 0 0
+ElementSpacing = 0.116364 0.0907276
+DimSize = 330 552
+AnatomicalOrientation = ??
+ElementSize = 0.116364 0.0907276
+ElementType = MET_FLOAT
+TransformMatrix =  0.907788 0.399201 0.128685 -0.371589 0.907755 -0.194686 -0.194533 0.128916 0.972388
+Offset =  106.393 433.949 66.1514
+Modality = US
+ImageType3 = US-Acq_01_20150527T125724_Velocity
+ElementDataFile = US-Acq_01_20150527T125724_Velocity_75.raw

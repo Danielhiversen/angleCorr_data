@@ -1,0 +1,17 @@
+ObjectType = Image
+NDims = 2
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+CenterOfRotation = 0 0
+ElementSpacing = 0.116364 0.0907276
+DimSize = 330 552
+AnatomicalOrientation = ??
+ElementNumberOfChannels = 3
+ElementSize = 0.116364 0.0907276
+ElementType = MET_UCHAR
+TransformMatrix =  0.907447 0.405782 0.109003 -0.377821 0.901554 -0.210835 -0.183825 0.150138 0.971425
+Offset =  107.973 431.037 62.7518
+Modality = US
+ImageType3 = US-Acq_01_20150527T125724_TissueAngio
+ElementDataFile = US-Acq_01_20150527T125724_TissueAngio_108.raw

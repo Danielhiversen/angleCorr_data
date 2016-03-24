@@ -1,0 +1,5 @@
+* ==== Format description												
+* Refer to 																		    
+*		http://custusx.org/uploads/developer_doc/nightly/org_custusx_acquisition.html   
+* for a description of the files.                                                      
+*/																		

@@ -1,0 +1,10 @@
+-------> Logging initialized [2015-06-12 08:47:53.298], format: [timestamp][source info][severity][thread] <text> 
+[08:47:53.298]	[main]	[source/plugins/org.custusx.dicom/widgets/cxDICOMAppWidget.cpp:442]	[void cx::DICOMAppWidget::setDatabaseDirectory(const QString&)]	[INFO] Open Database /home/dahoiv/cx_settings/profiles/Neurology/settings/DICOMDatabase/ctkDICOM.sql, open= 1
+-------> Logging initialized [2015-10-05 14:00:00.810], format: [timestamp][source info][severity][thread] <text> 
+[14:00:00.810]	[main]	[source/plugins/org.custusx.dicom/widgets/cxDICOMAppWidget.cpp:452]	[void cx::DICOMAppWidget::setDatabaseDirectory(const QString&)]	[INFO] Open Database /home/dahoiv/cx_settings/profiles/Neurology/settings/DICOMDatabase/ctkDICOM.sql, open= 1
+-------> Logging initialized [2015-10-06 13:23:08.031], format: [timestamp][source info][severity][thread] <text> 
+[13:23:08.031]	[main]	[source/plugins/org.custusx.dicom/widgets/cxDICOMAppWidget.cpp:452]	[void cx::DICOMAppWidget::setDatabaseDirectory(const QString&)]	[INFO] Open Database /home/dahoiv/cx_settings/profiles/Neurology/settings/DICOMDatabase/ctkDICOM.sql, open= 1
+-------> Logging initialized [2015-11-25 09:13:44.036], format: [timestamp][source info][severity][thread] <text> 
+[09:13:44.036]	[main]	[source/plugins/org.custusx.dicom/widgets/cxDICOMAppWidget.cpp:452]	[void cx::DICOMAppWidget::setDatabaseDirectory(const QString&)]	[INFO] Open Database /home/dahoiv/cx_settings/profiles/Neurology/settings/DICOMDatabase/ctkDICOM.sql, open= 1
+-------> Logging initialized [2016-01-04 11:30:33.914], format: [timestamp][source info][severity][thread] <text> 
+[11:30:33.914]	[main]	[source/plugins/org.custusx.dicom/widgets/cxDICOMAppWidget.cpp:452]	[void cx::DICOMAppWidget::setDatabaseDirectory(const QString&)]	[INFO] Open Database /home/dahoiv/cx_settings/profiles/Laboratory/settings/DICOMDatabase/ctkDICOM.sql, open= 1

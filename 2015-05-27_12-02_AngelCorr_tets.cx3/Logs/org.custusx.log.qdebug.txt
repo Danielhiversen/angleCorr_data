@@ -1,0 +1,262 @@
+-------> Logging initialized [2015-05-28 11:35:02.130], format: [timestamp][source info][severity][thread] <text> 
+[11:35:01.920]	[main]			[DEBUG] ServiceEvent: [ REGISTERED ] (true) 
+[11:35:01.920]	[main]			[DEBUG]   keys:  ("service.id", "objectclass") 
+[11:35:01.920]	[main]			[DEBUG]   objectclass:  QVariant(QStringList, ("cx::ReconstructionMethodService") ) 
+[11:35:01.920]	[main]			[DEBUG] PluginEvent: [ "org.custusx.usreconstruction.vnncl" ] "Resolved" 
+[11:35:01.922]	[main]			[DEBUG] PluginEvent: [ "org.custusx.usreconstruction.vnncl" ] "Started" 
+-------> Logging initialized [2015-06-12 08:39:02.506], format: [timestamp][source info][severity][thread] <text> 
+[08:39:02.506]	[main]			[WARNING] QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES" 
+[08:39:02.585]	[main]			[WARNING] QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES" 
+[08:39:02.585]	[main]			[WARNING] QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES" 
+[08:39:02.585]	[main]			[WARNING] QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES" 
+-------> Logging initialized [2015-10-05 13:51:36.902], format: [timestamp][source info][severity][thread] <text> 
+[13:51:36.902]	[main]			[WARNING] 0x1ac8ff0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xfc6430) ): Attempt to set a screen on a child window.
+[13:51:36.910]	[main]			[WARNING] 0x163f9c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xfc6430) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-10-05 13:54:45.048], format: [timestamp][source info][severity][thread] <text> 
+[13:54:45.047]	[main]			[WARNING] 0x1a7ab10 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.048]	[main]			[WARNING] 0x20eded0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.049]	[main]			[WARNING] 0x20bbd00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.049]	[main]			[WARNING] 0x20b8190 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.049]	[main]			[WARNING] 0x20cb640 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.050]	[main]			[WARNING] 0x20c7a90 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.050]	[main]			[WARNING] 0x20f63d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.051]	[main]			[WARNING] 0x20e3ed0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.051]	[main]			[WARNING] 0x1fd02e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.052]	[main]			[WARNING] 0x2861470 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.053]	[main]			[WARNING] 0x2486b30 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.053]	[main]			[WARNING] 0x31f16c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.056]	[main]			[WARNING] 0x2482550 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.057]	[main]			[WARNING] 0x2481920 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.057]	[main]			[WARNING] 0x23652e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.058]	[main]			[WARNING] 0x26577f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.059]	[main]			[WARNING] 0x265a780 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.060]	[main]			[WARNING] 0x2656430 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.061]	[main]			[WARNING] 0x2651410 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.062]	[main]			[WARNING] 0x1dde990 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.062]	[main]			[WARNING] 0x1ddc270 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.063]	[main]			[WARNING] 0x1ddc740 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:54:45.063]	[main]			[WARNING] 0x2042750 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.537]	[main]			[WARNING] 0x2263500 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.538]	[main]			[WARNING] 0x22dbb60 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.540]	[main]			[WARNING] 0x22de880 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.541]	[main]			[WARNING] 0x227fb50 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.541]	[main]			[WARNING] 0x1ca8550 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.542]	[main]			[WARNING] 0x22daaa0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.542]	[main]			[WARNING] 0x22d9fa0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.543]	[main]			[WARNING] 0x2281680 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.544]	[main]			[WARNING] 0x32076e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.544]	[main]			[WARNING] 0x32073b0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:24.548]	[main]			[WARNING] 0x1dd9cb0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.652]	[main]			[WARNING] 0x250c760 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.653]	[main]			[WARNING] 0x31e90f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.654]	[main]			[WARNING] 0x250e5c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.654]	[main]			[WARNING] 0x31e7ed0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.655]	[main]			[WARNING] 0x250b490 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.655]	[main]			[WARNING] 0x250a9e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:38.656]	[main]			[WARNING] 0x248bc00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:44.104]	[main]			[WARNING] 0x31cf870 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.253]	[main]			[WARNING] 0x26ef130 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.258]	[main]			[WARNING] 0x31db730 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.258]	[main]			[WARNING] 0x26f1ac0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.259]	[main]			[WARNING] 0x26924a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.259]	[main]			[WARNING] 0x26ede10 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.259]	[main]			[WARNING] 0x26ed3b0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+[13:58:45.260]	[main]			[WARNING] 0x2693f30 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x175b430) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-10-05 14:00:01.007], format: [timestamp][source info][severity][thread] <text> 
+[14:00:01.007]	[main]			[WARNING] 0x2497f90 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.008]	[main]			[WARNING] 0x2b106a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.009]	[main]			[WARNING] 0x2ade070 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.009]	[main]			[WARNING] 0x2ada560 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.010]	[main]			[WARNING] 0x2aed990 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.011]	[main]			[WARNING] 0x2ae7de0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.011]	[main]			[WARNING] 0x2b186b0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.011]	[main]			[WARNING] 0x24b3330 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.012]	[main]			[WARNING] 0x29f2420 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.012]	[main]			[WARNING] 0x32834c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.013]	[main]			[WARNING] 0x31113f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.014]	[main]			[WARNING] 0x3113ca0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.015]	[main]			[WARNING] 0x310ff80 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.016]	[main]			[WARNING] 0x310f520 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.016]	[main]			[WARNING] 0x30b6020 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.017]	[main]			[WARNING] 0x3079910 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.017]	[main]			[WARNING] 0x3c29320 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.018]	[main]			[WARNING] 0x3078550 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.019]	[main]			[WARNING] 0x3073550 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.020]	[main]			[WARNING] 0x2800b20 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.021]	[main]			[WARNING] 0x27fe400 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.021]	[main]			[WARNING] 0x27fe8d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:01.021]	[main]			[WARNING] 0x2a72210 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:04.691]	[main]			[WARNING] 0x2c85920 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+[14:00:04.700]	[main]			[WARNING] 0x27fbe40 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x217d430) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-10-05 14:11:39.482], format: [timestamp][source info][severity][thread] <text> 
+[14:11:39.482]	[main]			[WARNING] 0x1b9a020 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.483]	[main]			[WARNING] 0x22121e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.484]	[main]			[WARNING] 0x21e0040 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.484]	[main]			[WARNING] 0x21dc530 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.485]	[main]			[WARNING] 0x21ef980 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.485]	[main]			[WARNING] 0x21ebdd0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.486]	[main]			[WARNING] 0x221a680 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.486]	[main]			[WARNING] 0x221d1a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.487]	[main]			[WARNING] 0x20f43f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.487]	[main]			[WARNING] 0x2985420 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.488]	[main]			[WARNING] 0x28132e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.489]	[main]			[WARNING] 0x32fee90 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.490]	[main]			[WARNING] 0x2811e00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.491]	[main]			[WARNING] 0x2811420 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.491]	[main]			[WARNING] 0x27b7f60 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.491]	[main]			[WARNING] 0x277b840 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.492]	[main]			[WARNING] 0x277e7d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.493]	[main]			[WARNING] 0x277a480 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.493]	[main]			[WARNING] 0x2775480 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.494]	[main]			[WARNING] 0x1f02cb0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.495]	[main]			[WARNING] 0x1f00590 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.495]	[main]			[WARNING] 0x1f00a60 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:39.496]	[main]			[WARNING] 0x21741a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:47.623]	[main]			[WARNING] 0x2387490 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+[14:11:47.631]	[main]			[WARNING] 0x1efdfd0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x187f430) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-10-06 13:23:08.224], format: [timestamp][source info][severity][thread] <text> 
+[13:23:08.224]	[main]			[WARNING] 0x26e0180 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.224]	[main]			[WARNING] 0x2d54290 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.225]	[main]			[WARNING] 0x2d220a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.225]	[main]			[WARNING] 0x2d1e590 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.226]	[main]			[WARNING] 0x2d319c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.226]	[main]			[WARNING] 0x2d2be10 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.227]	[main]			[WARNING] 0x2d5c6e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.227]	[main]			[WARNING] 0x26f7320 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.228]	[main]			[WARNING] 0x2c36300 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.228]	[main]			[WARNING] 0x34c74a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.229]	[main]			[WARNING] 0x3355220 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.230]	[main]			[WARNING] 0x3357cc0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.236]	[main]			[WARNING] 0x3353ee0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.236]	[main]			[WARNING] 0x3353530 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.237]	[main]			[WARNING] 0x32fa060 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.237]	[main]			[WARNING] 0x32bd940 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.238]	[main]			[WARNING] 0x32c03d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.239]	[main]			[WARNING] 0x32bc580 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.240]	[main]			[WARNING] 0x32b7580 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.241]	[main]			[WARNING] 0x2a44c40 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.241]	[main]			[WARNING] 0x2a42520 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.242]	[main]			[WARNING] 0x2a429f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+[13:23:08.242]	[main]			[WARNING] 0x2ca43f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x23c1430) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-11-25 09:07:35.674], format: [timestamp][source info][severity][thread] <text> 
+[09:07:35.674]	[main]			[WARNING] [QT] QXcbWindow: Unhandled client message: "_GTK_LOAD_ICONTHEMES"
+[09:13:44.403]	[main]			[WARNING] [QT] 0xaac060 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.405]	[main]			[WARNING] [QT] 0x2819750 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.406]	[main]			[WARNING] [QT] 0x1daf980 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.408]	[main]			[WARNING] [QT] 0x1db2910 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.409]	[main]			[WARNING] [QT] 0x1daf050 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.409]	[main]			[WARNING] [QT] 0x1dae5c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.410]	[main]			[WARNING] [QT] 0x1da95a0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.411]	[main]			[WARNING] [QT] 0xe6fdd0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.411]	[main]			[WARNING] [QT] 0x1360110 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.412]	[main]			[WARNING] [QT] 0xe6f6e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.491]	[main]			[WARNING] [QT] 0x1840870 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.491]	[main]			[WARNING] [QT] 0x18106e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.491]	[main]			[WARNING] [QT] 0x180abc0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.492]	[main]			[WARNING] [QT] 0x181e000 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.492]	[main]			[WARNING] [QT] 0x181a450 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.493]	[main]			[WARNING] [QT] 0x1848d20 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.493]	[main]			[WARNING] [QT] 0x18b7f70 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.494]	[main]			[WARNING] [QT] 0x17276d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:44.499]	[main]			[WARNING] [QT] 0x17a5f90 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:53.023]	[main]			[WARNING] [QT] 0x19b93c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:53.026]	[main]			[WARNING] [QT] 0x29f90f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:53.026]	[main]			[WARNING] [QT] 0x29f8d30 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:53.029]	[main]			[WARNING] [QT] 0xe6e340 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+[09:13:56.498]	[main]			[WARNING] [QT] 0xd2ab10 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xa79080) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-12-03 11:04:34.119], format: [timestamp][source info][severity][thread] <text> 
+[11:04:34.119]	[main]			[WARNING] [QT] 0x11e6e00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.139]	[main]			[WARNING] [QT] 0x2ce9b20 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.140]	[main]			[WARNING] [QT] 0x24f2830 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.157]	[main]			[WARNING] [QT] 0x3124070 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.157]	[main]			[WARNING] [QT] 0x24f1f00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.158]	[main]			[WARNING] [QT] 0x24f1470 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.158]	[main]			[WARNING] [QT] 0x24ec450 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.159]	[main]			[WARNING] [QT] 0x30c54f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.160]	[main]			[WARNING] [QT] 0x158a160 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.160]	[main]			[WARNING] [QT] 0x1589a70 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.161]	[main]			[WARNING] [QT] 0x15886d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.241]	[main]			[WARNING] [QT] 0x1f360c0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.242]	[main]			[WARNING] [QT] 0x1f32510 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.243]	[main]			[WARNING] [QT] 0x1f60dc0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.243]	[main]			[WARNING] [QT] 0x1fd01e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.243]	[main]			[WARNING] [QT] 0x1e41f10 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.244]	[main]			[WARNING] [QT] 0x20cb3b0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.247]	[main]			[WARNING] [QT] 0x31246f0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.248]	[main]			[WARNING] [QT] 0x3124360 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+[11:04:34.251]	[main]			[WARNING] [QT] 0x1ec0640 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0x11c0620) ): Attempt to set a screen on a child window.
+-------> Logging initialized [2015-12-29 11:04:39.332], format: [timestamp][source info][severity][thread] <text> 
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.332]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+[11:04:39.333]	[main]			[WARNING] [QT] [31mQVariantMap DBusMenuExporterDBus::getProperties(int, const QStringList&) const[0m: Condition failed: action
+-------> Logging initialized [2016-01-04 11:30:34.331], format: [timestamp][source info][severity][thread] <text> 
+[11:30:34.331]	[main]			[WARNING] [QT] 0x1f60ba0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.331]	[main]			[WARNING] [QT] 0x22e5be0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.332]	[main]			[WARNING] [QT] 0x308bac0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.333]	[main]			[WARNING] [QT] 0x22e1700 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.333]	[main]			[WARNING] [QT] 0x22e0af0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.334]	[main]			[WARNING] [QT] 0x24e2a00 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.369]	[main]			[WARNING] [QT] 0x24e5490 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.370]	[main]			[WARNING] [QT] 0x24e20d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.370]	[main]			[WARNING] [QT] 0x24e1640 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.371]	[main]			[WARNING] [QT] 0x24dc620 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.371]	[main]			[WARNING] [QT] 0x30920d0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.372]	[main]			[WARNING] [QT] 0x1bd5320 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.372]	[main]			[WARNING] [QT] 0x1bd3070 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.410]	[main]			[WARNING] [QT] 0x1f15780 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.410]	[main]			[WARNING] [QT] 0x1f11b20 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.411]	[main]			[WARNING] [QT] 0x1f22fb0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.411]	[main]			[WARNING] [QT] 0x1f1f400 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.412]	[main]			[WARNING] [QT] 0x1f0c6e0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.412]	[main]			[WARNING] [QT] 0xd14100 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.413]	[main]			[WARNING] [QT] 0x1e2ed90 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.417]	[main]			[WARNING] [QT] 0x21bed80 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.421]	[main]			[WARNING] [QT] 0x1cb3a20 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.421]	[main]			[WARNING] [QT] 0x1d29df0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.422]	[main]			[WARNING] [QT] 0x1da0bf0 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
+[11:30:34.423]	[main]			[WARNING] [QT] 0x1e9b480 void QWindowPrivate::setTopLevelScreen(QScreen*, bool) ( QScreen(0xca7bf0) ): Attempt to set a screen on a child window.
