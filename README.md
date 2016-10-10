@@ -1,2 +1,2 @@
-# Ultrasound power doppler of straight tube phantom
+Ultrasound power doppler data of straight tube phantom
 
